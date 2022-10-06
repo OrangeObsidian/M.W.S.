@@ -14,7 +14,7 @@
 
 I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from the Northwest Territories Cumulative Impact Monitoring Program in the Government of the Northwest Territories, and Andrew Ireson from the Global Institute of Water Security, University of Saskatchewan, for their continued support and expert knowledge. This project was funded by the Northwest Territories Cumulative Impact Monitoring Program (NWT CIMP).
 
-<img src="IMG_8632.png" alt="Coppermine" width="600" height="750">
+<img src="IMG_8632.png" alt="Coppermine" width="200" height="400">
 
 Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
 
