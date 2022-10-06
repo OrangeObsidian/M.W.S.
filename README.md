@@ -1,5 +1,3 @@
-theme: architect
-# mws!!!!
 # EXPLORING CUMULATIVE IMPACTS TO WATER QUALITY IN THE UPPER COPPERMINE RIVER BASIN, NWT
 
 **Student**: Dylan Deck
@@ -12,6 +10,13 @@ theme: architect
 
 *A project report submitted in partial fulfilment for the Masters in Water Security degree*
 
+## Acknowledgements
+
+I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from the Northwest Territories Cumulative Impact Monitoring Program in the Government of the Northwest Territories, and Andrew Ireson from the Global Institute of Water Security, University of Saskatchewan, for their continued support and expert knowledge. This project was funded by the Northwest Territories Cumulative Impact Monitoring Program (NWT CIMP).
+
+<img src="IMG_8632.png" alt="Coppermine">
+
+Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
 
 
 [Executive summary](execsum.html)
@@ -46,10 +51,4 @@ theme: architect
 
 [Appendix B5](appendixB5.html)
 
-## Acknowledgements
 
-I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from the Northwest Territories Cumulative Impact Monitoring Program in the Government of the Northwest Territories, and Andrew Ireson from the Global Institute of Water Security, University of Saskatchewan, for their continued support and expert knowledge. This project was funded by the Northwest Territories Cumulative Impact Monitoring Program (NWT CIMP).
-
-<img src="IMG_8632.png" alt="Coppermine">
-
-Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
