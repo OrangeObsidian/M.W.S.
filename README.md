@@ -19,36 +19,36 @@ I wish to express my deepest gratitude to Anna Coles, Dion Kelly and staff from 
 Unknown lake in the Upper Coppermine River Basin, September 2019, Anna Coles.
 
 
-[Executive summary](execsum.html)
+[Executive summary](execsum.md)
 
-[Introduction](intro.html)
+[Introduction](intro.md)
 
-[Study Region](site.html)
+[Study Region](site.md)
 
-[Methodology](Methodology.html)
+[Methodology](Methodology.md)
 
-[1.0. Chapter 1 - Literature review](Chapter1.html) 
+[1.0. Chapter 1 - Literature review](Chapter1.md) 
 
-[2.0 Chapter 2 - Baseline analysis](Chapter2.html)
+[2.0 Chapter 2 - Baseline analysis](Chapter2.md)
 
-[3.0 Chapter 3 - Cumulative Effect Indexing Tool](Chapter3.html)
+[3.0 Chapter 3 - Cumulative Effect Indexing Tool](Chapter3.md)
 
-[Summary of findings](findings.html)
+[Summary of findings](findings.md)
 
-[Towards a solution](solution.html)
+[Towards a solution](solution.md)
 
-[References](references.html)
+[References](references.md)
 
-[Appendix A](appendixA.html)
+[Appendix A](appendixA.md)
 
-[Appendix B1](appendixB1.html)
+[Appendix B1](appendixB1.md)
 
-[Appendix B2](appendixB2.html)
+[Appendix B2](appendixB2.md)
 
-[Appendix B3](appendixB3.html)
+[Appendix B3](appendixB3.md)
 
-[Appendix B4](appendixB4.html)
+[Appendix B4](appendixB4.md)
 
-[Appendix B5](appendixB5.html)
+[Appendix B5](appendixB5.md)
 
 
